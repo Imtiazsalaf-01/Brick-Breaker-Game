@@ -1,5 +1,9 @@
 # Brick Breaker Java Game
 
+# @ MOTION CUT ---6 WEEKS INTERNSHIP---
+
+**PROJECT : 4 Brick Breaker Java Game**
+
 ## Overview
 Brick Breaker is a classic arcade game implemented in Java. Players control a paddle to bounce a ball and break bricks, aiming to clear all bricks without letting the ball fall.
 
